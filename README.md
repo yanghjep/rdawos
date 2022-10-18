@@ -38,7 +38,7 @@ pd.read_csv(f'https://raw.githubusercontent.com/yanghjep/rdawos/master/pointly/1
 ## pyrdawos
 
 `pyrdawos`(Python RDA AWOS)를 이용하면 파이썬을 사용해 데이터를 조회할 수 있습니다.
-[사용법](https://github.com/yanghjep/rdaws/blob/master/pyrdaws/README.md)을 참고하시기 바랍니다.
+[사용법](https://github.com/yanghjep/pyrdawos/blob/main/README.md)을 참고하시기 바랍니다.
 
 
 ## 출처
